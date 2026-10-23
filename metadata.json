@@ -1,0 +1,6 @@
+{
+  "name": "Làm Vườn Cùng Thỏ - Bé Học Phân Loại Rau",
+  "description": "Trò chơi kéo thả giáo dục mầm non sinh động giúp các bé nhận biết rau mồng tơi và rau dền tím cùng bạn Thỏ làm vườn trên iPad và trình duyệt.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
